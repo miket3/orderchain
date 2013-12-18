@@ -4,7 +4,7 @@ class Controller_Welcome extends Controller {
 
 	public function action_index()
 	{
-		$this->response->body('hello, world! Good Bye Worldx');
+		$this->response->body('hello, world! Good Bye World');
 	}
 
 } // End Welcome
